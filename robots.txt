@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrical-contractor-raleigh-nc.netlify.app/sitemap.xml
